@@ -1,4 +1,4 @@
-FROM ghcr.io/whykickamoocow/steamcmd-docker:master
+FROM docker.io/steamcmd/steamcmd:ubuntu-24
 
 ENV DEBIAN_FRONTEND=noninteractive
 
